@@ -1,2 +1,11 @@
 jupyter
 ipykernel
+streamlit
+langchain
+langchain-community
+dotenv
+langchain-groq
+langchain-huggingface
+sentence-transformers
+langchain-chroma
+fastapi
